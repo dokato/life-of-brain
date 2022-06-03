@@ -1,4 +1,4 @@
-# Python's Life of the Brian
+# Python's Life of Brain
 
 talk at PyCon IT 2022
 
